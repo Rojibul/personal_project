@@ -71,6 +71,32 @@ nav ul li:hover ul{
     margin: 0px;
 }
 nav{
-    border-bottom: 5px solid #4682b4;
+    border-bottom: 5px solid #4682b4;   
+}
+
+.addvertisement{
+    display: flex;
+    padding: 10px 150px;
     
+    background-color: blanchedalmond;
+}
+.addvertisement h1{
+    font-size: 40px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.addvertisement p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.addvertisement span{
+    font-size: 60px;
+    color: darkorange;
+}
+.written{
+    width: 350px;
+    margin-right: 10px;    
+}
+.Photo{
+    margin-right: 155px;
 }
